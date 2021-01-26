@@ -14,9 +14,17 @@ def game_hash
           assists: 12,
           steals: 3,
           blocks: 1,
-          slam_dunks: 1, 
+          slam_dunks: 1
         }
-        
+        " " => {
+        number: ,
+          shoe: ,
+          points: ,
+          rebounds: ,
+          assists: ,
+          steals: ,
+          blocks: ,
+          slam_dunks: 
         }
       }
     },
