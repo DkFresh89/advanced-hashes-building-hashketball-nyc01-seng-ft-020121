@@ -68,7 +68,7 @@ def game_hash
       colors: ["Turquoise", "Purple"],
       players: [
          {
-           player_name: "Jeff Aidrien",
+           player_name: "Jeff Adrien",
         number: 4,
           shoe: 18,
           points: 10,
