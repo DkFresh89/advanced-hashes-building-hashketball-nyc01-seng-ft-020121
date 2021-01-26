@@ -5,8 +5,7 @@ def game_hash
     home: {
       team_name: "Brooklyn Nets",
       colors: ["Black", "White"],
-      players: {
-        #"Alan Anderson" => 
+      players: [
         {
           player_name: "Alan Anderson",
           number: 0,
@@ -18,7 +17,6 @@ def game_hash
           blocks: 1,
           slam_dunks: 1
         },
-        #"Reggie Evans" => 
         {
           player_name: "Reggie Evans",
         number: 30,
@@ -30,7 +28,6 @@ def game_hash
           blocks: 12,
           slam_dunks: 7 
         },
-         #"Brook Lopez" => 
          {
            player_name: "Brook Lopez",
         number: 11,
@@ -42,7 +39,6 @@ def game_hash
           blocks: 1,
           slam_dunks: 15 
         },
-         #"Mason Plumlee" => 
          {
            player_name: "Mason Plumlee",
         number: 1,
@@ -54,7 +50,6 @@ def game_hash
           blocks: 8,
           slam_dunks: 5 
         },
-         #"Jason Terry" => 
          {
            player_name: "Jason Terry",
         number: 31,
@@ -72,7 +67,6 @@ def game_hash
       team_name: "Charlotte Hornets",
       colors: ["Turquoise", "Purple"],
       players: {
-         #"Jeff Aidrien" => 
          {
            player_name: "Jeff Aidrien",
         number: 4,
@@ -84,7 +78,6 @@ def game_hash
           blocks: 7,
           slam_dunks: 2 
         },
-         #"Bismack Biyombo" => 
          {
            player_name: "Bismack Biyombo",
         number: 0,
@@ -96,7 +89,6 @@ def game_hash
           blocks: 15,
           slam_dunks: 10  
         },
-         #"DeSanga Diop" => 
          {
            player_name: "DeSanga Diop",
         number: 2,
@@ -108,7 +100,6 @@ def game_hash
           blocks: 5,
           slam_dunks: 5 
         },
-         #"Ben Gordon" => 
          {
            player_name: "Ben Gordon",
         number: 8,
@@ -120,7 +111,6 @@ def game_hash
           blocks: 1,
           slam_dunks: 0 
         },
-         #"Kemba Walker" => 
          {
            player_name: "Kemba Walker",
         number: 33,
