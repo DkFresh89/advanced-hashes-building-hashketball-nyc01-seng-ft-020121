@@ -17,7 +17,7 @@ def game_hash
           steals: 3,
           blocks: 1,
           slam_dunks: 1
-        }
+        },
         #"Reggie Evans" => 
         {
           player_name: "Reggie Evans",
@@ -29,7 +29,7 @@ def game_hash
           steals: 12,
           blocks: 12,
           slam_dunks: 7 
-        }
+        },
          #"Brook Lopez" => 
          {
            player_name: "Brook Lopez",
@@ -41,7 +41,7 @@ def game_hash
           steals: 3,
           blocks: 1,
           slam_dunks: 15 
-        }
+        },
          #"Mason Plumlee" => 
          {
            player_name: "Mason Plumlee",
@@ -53,7 +53,7 @@ def game_hash
           steals: 3,
           blocks: 8,
           slam_dunks: 5 
-        }
+        },
          #"Jason Terry" => 
          {
            player_name: "Jason Terry",
@@ -83,7 +83,7 @@ def game_hash
           steals: 2,
           blocks: 7,
           slam_dunks: 2 
-        }
+        },
          #"Bismack Biyombo" => 
          {
            player_name: "Bismack Biyombo",
@@ -95,7 +95,7 @@ def game_hash
           steals: 22,
           blocks: 15,
           slam_dunks: 10  
-        }
+        },
          #"DeSanga Diop" => 
          {
            player_name: "DeSanga Diop",
@@ -107,7 +107,7 @@ def game_hash
           steals: 4,
           blocks: 5,
           slam_dunks: 5 
-        }
+        },
          #"Ben Gordon" => 
          {
            player_name: "Ben Gordon",
@@ -119,7 +119,7 @@ def game_hash
           steals: 1,
           blocks: 1,
           slam_dunks: 0 
-        }
+        },
          #"Kemba Walker" => 
          {
            player_name: "Kemba Walker",
