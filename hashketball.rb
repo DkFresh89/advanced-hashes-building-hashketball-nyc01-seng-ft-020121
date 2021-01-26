@@ -10,7 +10,6 @@ def game_hash
       colors: ["Turquoise", "Purple"]
       players: [ ]
     }
-    }
-    }
+    
   }
 end 
